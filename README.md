@@ -47,6 +47,7 @@ The p-value is much lower than 0.05, which means the difference between the grou
 ## 📈 Visualization
 
 ![Conversion Comparison](plots/conversion_plot.png)  
+
 ![Conversion Over Time](plots/conversion_time_plot.png)
 
 Daily conversion shows some volatility, especially towards the end of the experiment, which is likely due to smaller daily sample sizes.
